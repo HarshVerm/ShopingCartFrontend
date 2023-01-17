@@ -1,0 +1,30 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  letter-spacing: 1px;
+  font-family: "Questrial", "sans-serif";
+  /* font-weight: bold; */
+}
+
+div,
+p,
+span,
+table,
+button,
+input,
+a,
+ul,
+li {
+  color: #656565;
+}
